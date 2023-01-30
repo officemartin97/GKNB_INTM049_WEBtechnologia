@@ -1,0 +1,22 @@
+html, body {
+    height: 100%;
+    width: 100%;
+  }
+  h1 {
+    font-family: Arial;
+    font-size: 32pt;
+    color: blue;
+  }
+  td, th {
+    text-align: center;
+  }
+  
+  .megtagadva {
+    color: red;
+  }
+  
+  .alairva {
+    color: green;
+    font-weight: bold;
+  }
+  
